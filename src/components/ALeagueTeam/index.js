@@ -6,11 +6,11 @@ export const ALeagueTeam = () => {
             <section id="one" class="tiles">
                 <article>
 									<span class="image">
-										<img src="images/pic01.jpg" alt=""/>
+									<img src="images/sydney.jpg" alt='' />
 									</span>
                     <header class="major">
-                        <h3><a href="landing.html" class="link">Aliquam</a></h3>
-                        <p>Ipsum dolor sit amet</p>
+                        <h3><a href="landing.html" class="link">SYDNEY FC</a></h3>
+                        <p>FOUNDED IN 2004</p>
                     </header>
                 </article>
                 <article>
@@ -18,8 +18,8 @@ export const ALeagueTeam = () => {
 										<img src="images/pic02.jpg" alt=""/>
 									</span>
                     <header class="major">
-                        <h3><a href="landing.html" class="link">Tempus</a></h3>
-                        <p>feugiat amet tempus</p>
+                        <h3><a href="landing.html" class="link">VIEW PLAYERS</a></h3>
+                        <p>CURRENTLY 1st</p>
                     </header>
                 </article>
                 <article>
@@ -27,8 +27,8 @@ export const ALeagueTeam = () => {
 										<img src="images/pic03.jpg" alt=""/>
 									</span>
                     <header class="major">
-                        <h3><a href="landing.html" class="link">Magna</a></h3>
-                        <p>Lorem etiam nullam</p>
+                        <h3><a href="landing.html" class="link">MELBOURNE CITY</a></h3>
+                        <p>FOUNDED IN</p>
                     </header>
                 </article>
                 <article>
@@ -36,8 +36,8 @@ export const ALeagueTeam = () => {
 										<img src="images/pic04.jpg" alt=""/>
 									</span>
                     <header class="major">
-                        <h3><a href="landing.html" class="link">Ipsum</a></h3>
-                        <p>Nisl sed aliquam</p>
+                        <h3><a href="landing.html" class="link">VIEW PLAYERS</a></h3>
+                        <p>CURRENTLY 2ND</p>
                     </header>
                 </article>
                 <article>
@@ -45,8 +45,8 @@ export const ALeagueTeam = () => {
 										<img src="images/pic05.jpg" alt=""/>
 									</span>
                     <header class="major">
-                        <h3><a href="landing.html" class="link">Consequat</a></h3>
-                        <p>Ipsum dolor sit amet</p>
+                        <h3><a href="landing.html" class="link">WELLINGTON PHOENIX</a></h3>
+                        <p>FOUNDED IN </p>
                     </header>
                 </article>
                 <article>
@@ -54,8 +54,8 @@ export const ALeagueTeam = () => {
 										<img src="images/pic06.jpg" alt=""/>
 									</span>
                     <header class="major">
-                        <h3><a href="landing.html" class="link">Etiam</a></h3>
-                        <p>Feugiat amet tempus</p>
+                        <h3><a href="landing.html" class="link">VIEW PLAYERS</a></h3>
+                        <p>CURRENTLY 3RD</p>
                     </header>
                 </article>
             </section>

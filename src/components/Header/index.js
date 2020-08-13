@@ -1,23 +1,24 @@
 import React from 'react';
+
 export const Header = () => {
+    return (
     <div>
-    <section id="banner" class="major">
-    <div class="inner">
-        <header class="major">
-            <h1>Hi, my name is Forty</h1>
-        </header>
-        <div class="content">
-            <p>A responsive site template designed by HTML5 UP<br />
-            and released under the Creative Commons.</p>
-            <ul class="actions">
-                <li><a href="#one" class="button next scrolly">Get Started</a></li>
-            </ul>
-        </div>
-    </div>
-</section> 
+        <section id="banner" class="major">
+            <div class="inner">
+                <header class="major">
+                    <h1>Soccer Central</h1>
+                </header>
+                <div class="content">
+                    <p>‎‎‎ THE BEST SOURCE FOR EVERYTHING A-LEAGUE RELATED.</p>
+                    <ul class="actions">
+                        <li><a href="#one" class="button next scrolly">VIEW TEAMS</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
         <div>
             <header id="header" className="alt">
-                <a href="index.html" className="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+                <a href="index.html" className="logo"><strong>SOCCER</strong> <span>CENTRAL</span></a>
                 <nav>
                     <a href="#menu">Menu</a>
                 </nav>
@@ -31,6 +32,6 @@ export const Header = () => {
                 </ul>
             </nav>
         </div>
-    );
-};
+    </div>
+)};
 
